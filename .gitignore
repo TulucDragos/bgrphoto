@@ -19,8 +19,4 @@ node_modules/
 
 # ignore log files and databases
 *.log
-*.sql
 *.sqlite
-
-# add files from __files
-!__files
